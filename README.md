@@ -4,7 +4,7 @@ This is the written documentation for Rayfield Interface Suite.
 
 Last updated for the Beta 7R release
 
-## Why choose Rayfield?
+## Why choose Trxfield?
 
 - ⚖️ **Reliable and Stable**
 - 🆕 **Frequently Updated**
